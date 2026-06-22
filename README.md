@@ -38,4 +38,4 @@ Final Output & Deliverables
 - Power BI dashboard
 - This report
 GitHub & Project Links
-GitHub Repo: https://github.com/divyansh2703/F1_Pit_Analysis_Proejct.git
+GitHub Repo:
